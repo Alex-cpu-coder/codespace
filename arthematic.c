@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main (void)
 {
-    char a[15] = "Hello Latur";
-    printf("%s",)
+    char a[15] = "Hello Latur\n";
+    printf("%s",a);
 
 }
