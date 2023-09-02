@@ -19,7 +19,7 @@ scanf("%d", &n);
 // sum = a + b + c;
 // printf("sum = %d\n",sum);
 
-rev = (a*100) + (b*10) + (c * 1);
+rev = (a*10) + (b*10) + (c * 1);
 printf("the reverse value of n = %d",rev);
 
 
