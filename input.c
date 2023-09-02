@@ -13,7 +13,7 @@ int main (void)
     //printf("sustraction = %d\n",c);
      // printf("multuplication = %d\n",c);
       //  printf("division = %d\n",c);
-         printf("modulo = %d\n", c);
+         //printf("modulo = %d\n", c);
 }
 
 
