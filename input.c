@@ -7,8 +7,8 @@ int main (void)
     //c = a + b;
     //c = a - b;
     // c = a * b;
-      c = a / b;
-
+    //  c = a / b;
+        c
     // printf("addition  = %d\n",c);
     //printf("sustraction = %d\n",c);
      // printf("multuplication = %d\n",c);
