@@ -7,7 +7,9 @@ int main(void)
     a = a + b;
     b = a - b;
     a = a - b;
-    printft("after swapping value is a = %d b  = %d \n" a, b);
-    
+    printft("after swapping value is a = %d b  = %d \n", a, b);
+
+
+
 
 }
