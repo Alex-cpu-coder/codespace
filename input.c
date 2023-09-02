@@ -6,13 +6,13 @@ int main (void)
     scanf("%d %d ", &a, &b);
     //c = a + b;
     //c = a - b;
-      c = a * b;
-
+    // c = a * b;
+      c = a / b;
 
     // printf("addition  = %d\n",c);
     //printf("sustraction = %d\n",c);
-      printf("multuplication = %d\n",c);
-
+     // printf("multuplication = %d\n",c);
+        printf("division = %d\n",c);
 }
 
 
