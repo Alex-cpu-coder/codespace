@@ -4,7 +4,7 @@ int main (void){
 
 
 // int n , a , b, c , sum;
-  int n , a , b , c, rev;
+int n , a , b , c, rev;
 printf("enter the value of n \n");
 scanf("%d", &n);
 // a = n %10;
