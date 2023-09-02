@@ -15,7 +15,7 @@ int main(void)
     //sum = a + b + c;
     //printf("the value of  a = %d b = %d c = %d\n",a,b ,c );
 
-    printf("%d\n",rev);
+    printf("a = %d b = %d c = %d\n",a,b ,c );
 
 
 }
