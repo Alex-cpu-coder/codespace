@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main(void)
 {
-    int n = 123, a,b,c,sum;
+    int n = 123, a,b,c,rev;
     a = n % 10;
     n = n / 10;
 
@@ -11,11 +11,11 @@ int main(void)
     c = n % 10;
     n = n / 10;
 
-    rev = (a*10) + (b * 10) + (c * 1);
+    rev = (a*10) + (b * 10) + (c * 10);
     //sum = a + b + c;
     //printf("the value of  a = %d b = %d c = %d\n",a,b ,c );
 
-
+    printf("%d\n",rev);
 
 
 }
