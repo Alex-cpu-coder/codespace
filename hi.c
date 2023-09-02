@@ -2,12 +2,6 @@
 
 int main (void){
 
-int n;
-int a;
-int b;
-int c;
-int rev;
-
 // int n , a , b , c, rev;
 printf("enter the value of n \n");
 scanf("%d", &n);
