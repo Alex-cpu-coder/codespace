@@ -11,8 +11,8 @@ int main(void)
     c = n % 10;
     n = n / 10;
 
-    sum = a + b + c;
-    printf("the value of a , b ,c = %d\n",sum);
+    //sum = a + b + c;
+    printf("the value of  a = %d b = %d c = %d\n",a,b ,c );
 
 
 
