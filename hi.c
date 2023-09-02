@@ -2,8 +2,12 @@
 
 int main (void){
 
+int n;
+int a;
+int b;
+int c;
+int rev;
 
-int n , a , b, c , sum;
 // int n , a , b , c, rev;
 printf("enter the value of n \n");
 scanf("%d", &n);
@@ -19,8 +23,8 @@ scanf("%d", &n);
 // sum = a + b + c;
 // printf("sum = %d\n",sum);
 
-sum = (a*10) + (b*10) + (c * 1);
-printf("the reverse value of n = %d",sum);
+rev = (a*10) + (b*10) + (c * 1);
+printf("the sum of  reverse value of n is = %d",rev);
 
 
 }
