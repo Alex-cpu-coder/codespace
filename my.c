@@ -5,6 +5,6 @@ int main(void)
     printf("enter the value of x and y\n" );
     scanf("%d %d", &x , &y);
      z = x + y;
-    printf("the sum of x and y %d\n",z);
+    printf("addition = %d\n",z);
     return 0;
 }
