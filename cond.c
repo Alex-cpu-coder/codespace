@@ -8,5 +8,5 @@ int main (void)
     printf("light is on \n");
  }
 
-return 0;
+  return 0;
 }
