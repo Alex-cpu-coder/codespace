@@ -19,7 +19,7 @@ int main (void)
 
 
 
-
+if (num % 2 ==0)
 
 }
 
